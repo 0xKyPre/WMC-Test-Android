@@ -74,6 +74,7 @@ Add:
 ```toml
 [versions]
 navigation3Runtime = "1.0.1"
+kotlinxSerializationCore = "1.6.3"
 
 [plugins]
 jetbrains-kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }

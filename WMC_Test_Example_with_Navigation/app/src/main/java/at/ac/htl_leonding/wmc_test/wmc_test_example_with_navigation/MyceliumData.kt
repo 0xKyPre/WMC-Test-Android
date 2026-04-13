@@ -10,5 +10,8 @@ data class MyceliumItem(
 val myceliumList = listOf(
     MyceliumItem("Mycelium", 2, 14, R.drawable.mycelium),
     MyceliumItem("Warp", 3, 21, R.drawable.warp),
+    MyceliumItem("Crimson", 5, 30, R.drawable.crimson),
+    MyceliumItem("Mycelium", 2, 14, R.drawable.mycelium),
+    MyceliumItem("Warp", 3, 21, R.drawable.warp),
     MyceliumItem("Crimson", 5, 30, R.drawable.crimson)
 )
